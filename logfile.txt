@@ -1,0 +1,11 @@
+[2023-06-24 20:53:42] Added student with ID: 1
+[2023-06-24 20:53:42] Added student with ID: 2
+[2023-06-24 20:53:42] Added student with ID: 3
+[2023-06-24 20:53:42] Updated student with ID: 1
+[2023-06-24 20:53:42] Deleted student with ID: 2
+[2023-06-24 20:54:48] Added student with ID: 1
+[2023-06-24 20:54:48] Added student with ID: 2
+[2023-06-24 20:54:48] Added student with ID: 3
+[2023-06-24 20:54:48] Updated student with ID: 1
+[2023-06-24 20:54:48] Updated student with ID: 2
+[2023-06-24 20:54:48] Deleted student with ID: 2
